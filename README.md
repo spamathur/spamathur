@@ -40,6 +40,6 @@
  
 - 🌱 I’m currently learning **C, SQL**
   
-- 📄 LinkedIn: [](https://www.linkedin.com/in/sparshma/)
+- 📄 LinkedIn: [Link](https://www.linkedin.com/in/sparshma/)
   
 - 📫 Contact: **sparsh.mathur@outlook.com**
