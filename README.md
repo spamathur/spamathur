@@ -38,7 +38,7 @@
 
 <h3 align="center">I am an undergraduate Computer Science student at Purdue</h3>
  
-- 🌱 I’m currently learning **C, SQL**
+- 🌱 I’m currently learning **C, SQL, Flask, and React**
   
 - 📄 LinkedIn: [Link](https://www.linkedin.com/in/sparshma/)
   
