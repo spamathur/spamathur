@@ -36,9 +36,7 @@
 
 <h1 align="center"></h1>
 
-<h3 align="center">I am an undergraduate Computer Science student at Purdue</h3>
- 
-- 🌱 I’m currently learning **C, SQL, Flask, and React**
+<h3 align="center">Hello! I'm a Computer Science student with a strong interest in software development and machine learning. I've gained hands-on experience working with companies such as Broadcom, the Chicago Cubs, and John Deere in an agile setting. I am eager to apply my skills in software development, machine learning, and data science to make creative and impactful solutions to any challenge. I am currently taking a closer look at Agentic AI, cloud deployment, and containerization. I’m eager to connect with professionals. Feel free to reach out about opportunities, collaborative projects, or anything else that comes to mind!</h3>
   
 - 📄 LinkedIn: [Link](https://www.linkedin.com/in/sparshma/)
   
